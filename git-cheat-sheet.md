@@ -57,3 +57,4 @@ These commands create a link between your local repository, and the GitHub repos
 ####What happens if the repo I forked changes? How do I get those changes?
   You can set an upstream remote, by typing ‘git remote add upstream [https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git]' This will set the original repo as an upstream source. Then you can ‘git pull upstream [branch]’ to get the changes from the branch you want, on the upstream repo. This concept is a little advanced, but you will use it eventually.
 
+###Looking for more? Go checkout the [git-tower](http://www.git-tower.com/blog/git-cheat-sheet/) cheat sheet for a more in depth look at git.
