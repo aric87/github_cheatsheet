@@ -22,3 +22,4 @@ To make a branch type ‘git checkout -b [branchName]’ Branches are very usefu
 #What is a pull request (PR)?
   A pull request is a feature of GitHub, that allows changes from one branch to be pulled into another. An example would be on a project with multiple collaborators, where each person works on their own forked copies of a repo. When someone is ready to send their changes to the master repo, a pull request is created. This allows for whoever is controlling the master repo, to review the changes before they are added.
 
+Here's a [video](http://snarechops.github.io/git/help/2015/02/11/github-basics.html) on Git and Github
