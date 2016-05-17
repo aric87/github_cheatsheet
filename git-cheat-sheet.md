@@ -6,7 +6,7 @@
 ####What is Git?
   Git is a command line tool used to track files, and allows for version control.
 
-####Git is not GitHub! Git can be used with other version control methods.  Head to the [GitHub cheat sheet](https://github.com/aric87/github_cheatsheet/blob/master/git-cheat-sheet.md) for GitHub specific topics.
+####Git is not GitHub! Git is open source software, GitHub is one of multiple cloud apps you could use to host git repos.  Head to the [GitHub cheat sheet](https://github.com/aric87/github_cheatsheet/blob/master/git-cheat-sheet.md) for GitHub specific topics.
 
 ####What is a repository (repo)?
   A repo is a project folder.
